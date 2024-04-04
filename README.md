@@ -18,7 +18,7 @@
 
 ## Tech
 
-Dillinger uses a number of open source projects to work properly:
+A LP vai usar as seguintes tecnologias:
 
 - [HTML] - Linguagem de Marcação de HiperTexto
 - [CSS] - Cascading Style Sheets
@@ -28,5 +28,5 @@ Dillinger uses a number of open source projects to work properly:
 
 | Documento |  |
 | ------ | ------ |
-| Requisitos de Usuário | [plugins/dropbox/README.md][PlDb] |
-| Requisitos de Sistema | [plugins/github/README.md][PlGh] |
+| Requisitos de Usuário | [https://github.com/G2454/tiosbriskeis-2024.1/tree/main/Requisitos%20do%20Usu%C3%A1rio] |
+| Requisitos de Sistema | [https://github.com/G2454/tiosbriskeis-2024.1/tree/main/Requisitos%20do%20Sistema] |
