@@ -4,12 +4,12 @@
 
 ## EC46C - Desenvolvimento Ágil - C61 (2024_01)
 
-- Guilherme Yuuki Sumita
-- Filipe Antonio de Lima Nogueira
-- Pedro Augusto de Lima Oliveira
-- Paulo Cesar de Oliveira Mitsi
-- Fernando Lima Fernandes
-- João Victor da Cruz Silvestre
+- Guilherme Yuuki Sumita - Anakin Lego
+- Filipe Antonio de Lima Nogueira - Designer Desktop
+- Pedro Augusto de Lima Oliveira - Developer
+- Paulo Cesar de Oliveira Mitsi - Assistent
+- Fernando Lima Fernandes - Assistent 
+- João Victor da Cruz Silvestre - Designer Mobile
 
 ## O que é o projeto LP de sorveteria ?
 
