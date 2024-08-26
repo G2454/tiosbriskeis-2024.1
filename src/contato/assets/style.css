@@ -286,6 +286,11 @@ main{
         display: block;
     }
 
+    .contato{
+        flex-direction: column;
+        gap: 15px;
+    }
+
     .rodape_itens {
         grid-template-columns: auto auto;
         justify-content: space-around;
