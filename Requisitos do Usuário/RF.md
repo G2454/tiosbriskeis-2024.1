@@ -5,10 +5,9 @@
 | ID   |                                 Requisito                                 | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: | :--------: | :---------: |
 | RF01 |              O sistema deve ser capaz de permitir navegar pelas páginas do Website.              |  Alta     |         |
-| RF02 |           O sistema pode ser capaz de mostrar a localização pela integração com o Google Maps.           |  Baixa      |        |
-| RF03 |              O sistema deve permitir a visualização do cardápio do estabelecimento.              |  Alta     |     -       |
-| RF04 |                 O sistema deve mostrar as avaliações do usuário.                 |   Alta         |             |
-| RF05 |        O sistema pode permitir os usuários a entrar em contato por meio de um formulário.        |   Baixa     |             |
+| RF02 |              O sistema deve permitir a visualização do cardápio do estabelecimento.              |  Alta     |            |
+| RF03 |                 O sistema deve mostrar as avaliações do usuário.                 |   Alta         |             |
+| RF04 |        O sistema pode permitir os usuários a entrar em contato por meio de um formulário.        |   Baixa     |             |
 
 
 
