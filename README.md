@@ -32,3 +32,5 @@ A página irá usar as seguintes tecnologias:
 
 
 Figma do projeto: https://www.figma.com/design/Nl08JvZBvXMu8yYIdC98BI/Untitled?node-id=7-2&t=rXkqrOgqG2yQOKki-1
+Site do projeto: https://tiosbriskeis-site.vercel.app/index.html
+Link da apresentação: https://docs.google.com/presentation/d/13NEkt3wEdsNCow059eoXulMaG4tj97QyX1f9ptafBzU/edit#slide=id.p
